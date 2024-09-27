@@ -36,5 +36,5 @@ To run the To-Do List application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Vikaschaturvedi167/GYPRC-todo-app.git
    cd todo-app
